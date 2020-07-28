@@ -1,0 +1,12 @@
+Circuit: * C:\Users\sudha\Downloads\_dd614dcf331498cae917407ba9509209_Boost\boost.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u2:vc)
+Heightened Def Con from 0.00034 to 0.000340001
+Heightened Def Con from 0.00068 to 0.000680001
+Heightened Def Con from 0.00069 
