@@ -1,0 +1,37 @@
+Summary
+Many of the homework problems require that a mathematical expression be entered, in computer-readable format. This guide will help you properly format your responses on the course assessments
+
+Example Problem
+The second in-video quiz of Lecture 2.2 contains a problem similar to the one below
+
+Problem: Inductor current waveform of the buck converter
+inductor current waveform, buck converter
+The inductor current waveform for the buck converter is illustrated above. Can you find an expression for the increase in inductor current during the first subinterval? In other words, write an expression for the change in inductor current iL(DTs) - iL(0), as a function of the circuit voltages and other quantities, and enter your expression below. Your expression must use standard computer formula notation such as Vg - I*R/(1-D), with math operators such as +-*/^. Use the symbols and polarities defined in the figure, specifically Vg, V, L, D, and Ts. The variable names are case sensitive.
+
+Discussion of correct answers and typical errors
+Correct Entries:
+
+The correct answer is D*Ts*(Vg-V)/L
+There are other valid and equivalent ways to write the above expression. For example: (Vg-V)/L*D*Ts
+The Coursera grading system generates random numbers for the variables used in the instructor's solution, and plugs the same numbers into the expression entered by the student. It compares the numerical results. It does this multiple times, with different numerical values. If the student results are the same as those of the instructor's expression, it decides that the expression entered by the student is correct.
+Typical incorrect entries:
+
+iL(DTs) - iL(0)= DTs*(Vg-V)/L
+
+The entry must be an expression, not an equation. There should be no equals sign.
+The instructor has defined only the variables Vg, V, L, D, and Ts. These are the only variable names that should appear in the expression. The names iL(0) and iL(DTs) are undefined here.
+Coursera will evaluate DTs as a single variable name (which is undefined). The asterisk (multiply symbol) between the variable names D and Ts is missing.
+DTs*(Vg-V)/L
+
+Coursera will evaluate DTs as a single variable name (which is undefined). The asterisk between D and Ts is missing.
+Vg-I*R/(1-d)
+
+The formula is incorrect
+The variable names I, R, and d are not on the list stated in the problem. Use only Vg, V, L, D, and Ts. Capitalization is important, so D is different from d.
+DTs*(VG-V)/L
+
+Capitalization is important, so VG is not the same as Vg. VG is an undefined variable name in this example. In each problem, carefully use the variable names exactly as defined in that problem.
+Vg*D*Ts/(2*L) is not the same as Vg*D*Ts/2*L
+
+In the second expression, the computer interprets L as being in the numerator instead of the denominator. Either use parentheses as in the first expression, or enter Vg*D*Ts/2/L. This is standard notation for math expressions, and is widely used in most computer languages as well as in programs such as Excel, Matlab, etc.
+Note: the Coursera system doesn't know what D' is. Instead, be sure to enter (1-D)
