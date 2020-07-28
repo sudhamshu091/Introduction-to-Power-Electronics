@@ -1,0 +1,226 @@
+Circuit: * C:\Users\sudha\Desktop\intro to pe\Buck\buck.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u2:vc)
+Heightened Def Con from 3.00005e-005 to 3.00011e-005
+Heightened Def Con from 4.00005e-005 to 4.00011e-005
+Heightened Def Con from 5.00005e-005 to 5.00011e-005
+Heightened Def Con from 6.00005e-005 to 6.00011e-005
+Heightened Def Con from 7.00005e-005 to 7.00011e-005
+Heightened Def Con from 8.00005e-005 to 8.00011e-005
+Heightened Def Con from 9.00005e-005 to 9.00011e-005
+Heightened Def Con from 0.0001 to 0.000100001
+Heightened Def Con from 0.00025 to 0.000250001
+Heightened Def Con from 0.00026 to 0.000260001
+Heightened Def Con from 0.000270001 to 0.000270001
+Heightened Def Con from 0.000300001 to 0.000300001
+Heightened Def Con from 0.00031 to 0.000310001
+Heightened Def Con from 0.00037 to 0.000370001
+Heightened Def Con from 0.000420001 to 0.000420001
+Heightened Def Con from 0.00043399 to 0.000433992
+Heightened Def Con from 0.00053 to 0.000530001
+Heightened Def Con from 0.00054 to 0.00054
+Heightened Def Con from 0.00054 to 0.00054
+Heightened Def Con from 0.00054 to 0.000540001
+Heightened Def Con from 0.00055 +to 0.00055
+Heightened Def Con from 0.00055 to 0.000550001
+Heightened Def Con from 0.00056 to 0.00056
+Heightened Def Con from 0.00056 to 0.00056
+Heightened Def Con from 0.00056 to 0.000560001
+Heightened Def Con from 0.00057 to 0.000570001
+Heightened Def Con from 0.00058 to 0.00058
+Heightened Def Con from 0.00058 to 0.000580001
+Heightened Def Con from 0.00059 to 0.000590001
+Heightened Def Con from 0.0006 to 0.000600001
+Heightened Def Con from 0.00061 to 0.00061
+Heightened Def Con from 0.0007 to 0.000700001
+Heightened Def Con from 0.00071 to 0.00071
+Heightened Def Con from 0.00071 to 0.000710001
+Heightened Def Con from 0.00072 to 0.000720001
+Heightened Def Con from 0.00073 to 0.000730001
+Heightened Def Con from 0.00074 to 0.000740001
+Heightened Def Con from 0.00075 to 0.000750001
+Heightened Def Con from 0.00076 to 0.000760001
+Heightened Def Con from 0.00077 to 0.00077
+Heightened Def Con from 0.00077 to 0.000770001
+Heightened Def Con from 0.00078 to 0.000780001
+Heightened Def Con from 0.00079 ++to 0.00079
+Heightened Def Con from 0.00079 to 0.000790001
+Heightened Def Con from 0.0008 to 0.000800001
+Heightened Def Con from 0.00081 to 0.00081
+Heightened Def Con from 0.00081 to 0.000810001
+Heightened Def Con from 0.00082 to 0.000820001
+Heightened Def Con from 0.00083 to 0.00083
+Heightened Def Con from 0.00083 to 0.00083
+Heightened Def Con from 0.00083 to 0.000830001
+Heightened Def Con from 0.00084 to 0.000840001
+Heightened Def Con from 0.00085 to 0.00085
+Heightened Def Con from 0.00086 to 0.000860001
+Heightened Def Con from 0.00087 to 0.000870001
+Heightened Def Con from 0.00088 ++to 0.00088
+Heightened Def Con from 0.00088 to 0.00088
+Heightened Def Con from 0.00088 to 0.000880001
+Heightened Def Con from 0.00089 +to 0.00089
+Heightened Def Con from 0.00089 to 0.00089
+Heightened Def Con from 0.00089 to 0.000890001
+Heightened Def Con from 0.0009 to 0.0009
+Heightened Def Con from 0.0009 to 0.0009
+Heightened Def Con from 0.0009 to 0.000900001
+Heightened Def Con from 0.00091 to 0.00091
+Heightened Def Con from 0.00091 to 0.000910001
+Heightened Def Con from 0.00092 +to 0.00092
+Heightened Def Con from 0.00092 to 0.00092
+Heightened Def Con from 0.00092 to 0.000920001
+Heightened Def Con from 0.00093 to 0.000930001
+Heightened Def Con from 0.00094 to 0.000940001
+Heightened Def Con from 0.00095 to 0.00095
+Heightened Def Con from 0.00095 to 0.000950001
+Heightened Def Con from 0.00096 ++to 0.00096
+Heightened Def Con from 0.00096 to 0.000960001
+Heightened Def Con from 0.00097 to 0.00097
+Heightened Def Con from 0.00097 to 0.000970001
+Heightened Def Con from 0.00098 to 0.000980001
+Heightened Def Con from 0.00099 to 0.000990001
+Heightened Def Con from 0.001 to 0.001
+Heightened Def Con from 0.00102 to 0.00102
+Heightened Def Con from 0.00107 to 0.00107
+Heightened Def Con from 0.00112 to 0.00112
+Heightened Def Con from 0.00113 to 0.00113
+Heightened Def Con from 0.00114 to 0.00114
+Heightened Def Con from 0.00122 to 0.00122
+Heightened Def Con from 0.00126 to 0.00126
+Heightened Def Con from 0.00127 to 0.00127
+Heightened Def Con from 0.001299 to 0.001299
+Heightened Def Con from 0.001299 to 0.001299
+Heightened Def Con from 0.00134 to 0.00134
+Heightened Def Con from 0.00139 to 0.00139
+Heightened Def Con from 0.00141 to 0.00141
+Heightened Def Con from 0.00143 to 0.00143
+Heightened Def Con from 0.00144 to 0.00144
+Heightened Def Con from 0.00151 to 0.00151
+Heightened Def Con from 0.00155 to 0.00155
+Heightened Def Con from 0.00156 to 0.00156
+Heightened Def Con from 0.00161 to 0.00161
+Heightened Def Con from 0.00168 to 0.00168
+Heightened Def Con from 0.00171 to 0.00171
+Heightened Def Con from 0.00172 to 0.00172
+Heightened Def Con from 0.00178 to 0.00178
+Heightened Def Con from 0.0018 to 0.0018
+Heightened Def Con from 0.00185 to 0.00185
+Heightened Def Con from 0.00186 to 0.00186
+Heightened Def Con from 0.00187 to 0.00187
+Heightened Def Con from 0.00189 to 0.00189
+Heightened Def Con from 0.00194 to 0.00194
+Heightened Def Con from 0.00195 to 0.00195
+Heightened Def Con from 0.00198 to 0.00198
+Heightened Def Con from 0.002 to 0.002
+Heightened Def Con from 0.00202 to 0.00202
+Heightened Def Con from 0.00203 to 0.00203
+Heightened Def Con from 0.00206 to 0.00206
+Heightened Def Con from 0.0021 to 0.0021
+Heightened Def Con from 0.00213 to 0.00213
+Heightened Def Con from 0.00215 to 0.00215
+Heightened Def Con from 0.00216 to 0.00216
+Heightened Def Con from 0.00218 to 0.00218
+Heightened Def Con from 0.0022 to 0.0022
+Heightened Def Con from 0.00223 to 0.00223
+Heightened Def Con from 0.00229 to 0.00229
+Heightened Def Con from 0.00232 to 0.00232
+Heightened Def Con from 0.00234 to 0.00234
+Heightened Def Con from 0.00235 to 0.00235
+Heightened Def Con from 0.00238 to 0.00238
+Heightened Def Con from 0.00242 to 0.00242
+Heightened Def Con from 0.00243 to 0.00243
+Heightened Def Con from 0.00249 to 0.00249
+Heightened Def Con from 0.00252 to 0.00252
+Heightened Def Con from 0.00254 to 0.00254
+Heightened Def Con from 0.00265 to 0.00265
+Heightened Def Con from 0.00268 to 0.00268
+Heightened Def Con from 0.00273 to 0.00273
+Heightened Def Con from 0.00279 to 0.00279
+Heightened Def Con from 0.00284 to 0.00284
+Heightened Def Con from 0.00287 to 0.00287
+Heightened Def Con from 0.00299 to 0.00299
+Heightened Def Con from 0.00303 to 0.00303
+Heightened Def Con from 0.00306 to 0.00306
+Heightened Def Con from 0.00314 to 0.00314
+Heightened Def Con from 0.00317 to 0.00317
+Heightened Def Con from 0.00318 to 0.00318
+Heightened Def Con from 0.0032 to 0.0032
+Heightened Def Con from 0.00323 to 0.00323
+Heightened Def Con from 0.00329 to 0.00329
+Heightened Def Con from 0.0033 to 0.0033
+Heightened Def Con from 0.00334 to 0.00334
+Heightened Def Con from 0.00339 to 0.00339
+Heightened Def Con from 0.0034 to 0.0034
+Heightened Def Con from 0.00346 to 0.00346
+Heightened Def Con from 0.0035 to 0.0035
+Heightened Def Con from 0.00356 to 0.00356
+Heightened Def Con from 0.00358 to 0.00358
+Heightened Def Con from 0.00361 to 0.00361
+Heightened Def Con from 0.00363 to 0.00363
+Heightened Def Con from 0.00364 to 0.00364
+Heightened Def Con from 0.00369 to 0.00369
+Heightened Def Con from 0.00372 to 0.00372
+Heightened Def Con from 0.00378 to 0.00378
+Heightened Def Con from 0.00382 to 0.00382
+Heightened Def Con from 0.00383 to 0.00383
+Heightened Def Con from 0.00385 to 0.00385
+Heightened Def Con from 0.00386 to 0.00386
+Heightened Def Con from 0.00399 to 0.00399
+Heightened Def Con from 0.00404 to 0.00404
+Heightened Def Con from 0.00405 to 0.00405
+Heightened Def Con from 0.00407 to 0.00407
+Heightened Def Con from 0.00413 to 0.00413
+Heightened Def Con from 0.00415 to 0.00415
+Heightened Def Con from 0.00418 to 0.00418
+Heightened Def Con from 0.00424 to 0.00424
+Heightened Def Con from 0.00425 to 0.00425
+Heightened Def Con from 0.00426 to 0.00426
+Heightened Def Con from 0.00428 to 0.00428
+Heightened Def Con from 0.00433 to 0.00433
+Heightened Def Con from 0.00438 to 0.00438
+Heightened Def Con from 0.0044 to 0.0044
+Heightened Def Con from 0.00441 to 0.00441
+Heightened Def Con from 0.00442 to 0.00442
+Heightened Def Con from 0.00443 to 0.00443
+Heightened Def Con from 0.00444 to 0.00444
+Heightened Def Con from 0.00454 to 0.00454
+Heightened Def Con from 0.00455 to 0.00455
+Heightened Def Con from 0.00459 to 0.00459
+Heightened Def Con from 0.0046 to 0.0046
+Heightened Def Con from 0.00461 to 0.00461
+Heightened Def Con from 0.00463 to 0.00463
+Heightened Def Con from 0.00464 to 0.00464
+Heightened Def Con from 0.00469 to 0.00469
+Heightened Def Con from 0.00475 to 0.00475
+Heightened Def Con from 0.00485 to 0.00485
+Heightened Def Con from 0.00488 to 0.00488
+Heightened Def Con from 0.00492 to 0.00492
+Heightened Def Con from 0.00493 to 0.00493
+Heightened Def Con from 0.00496 to 0.00496
+Heightened Def Con from 0.00496399 to 0.00496399
+Heightened Def Con from 0.00498 to 0.00498
+
+Date: Mon Jul 27 21:56:25 2020
+Total elapsed time: 23.313 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1806693
+traniter = 1806693
+tranpoints = 544991
+accept = 457066
+rejected = 88133
+matrix size = 38
+fillins = 7
+solver = Normal
+Matrix Compiler1: 2.19 KB object code size  0.9/0.5/[0.3]
+Matrix Compiler2: 3.03 KB object code size  0.5/0.9/[0.3]
+
