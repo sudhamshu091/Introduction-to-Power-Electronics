@@ -1,0 +1,41 @@
+1.Question 1
+Introduction
+This assignment is an introductory simulation problem, concerning LTspice simulation of a boost dc-dc converter. To get started, do the following:
+
+Download and install LTspice on your computer. Windows and Macintosh versions of LTspice IV are available at the following site:
+http://www.linear.com/designtools/software/
+
+2. Download and unzip the boost converter and associated files from the link below, and save them in a working directory on your local disk. Note: the boost converter simulation of this assignment is different from the buck converter simulation of the lecture!
+
+Boost.zip
+3. Open the file boost.asc using LTspice. Press the run button to run a simulation of the turn-on transient of this circuit. It should take 10-20 seconds for the simulation to run (depending on your computer speed). When the simulation is done, you can click on a node in the schematic to plot the voltage at that node. If you move the mouse over an element such as the inductor, it turns into a current probe symbol; you can then click to plot the current in that element. Explore the waveforms of the converter, including the output voltage, the inductor current, and the switch node voltage.
+
+Questions
+For the numerical answers below, you should enter your answer with an accuracy of +/- 1%. For efficiency, your answer should have an accuracy of at least +/- 0.1% of efficiency.
+
+What is the steady-state average output voltage (expressed in volts)?
+
+Ans:40.126
+2.Question 2
+What is the steady-state average inductor current (in amps)?
+
+Ans:3.524
+3.Question 3
+What is the steady-state output power (in watts)?
+
+Ans:80.81
+4.Question 4
+What is the average power drawn out of the input source Vg during steady-state operation of the converter (in watts)?
+
+Ans:85.008
+5.Question 5
+What is the average power consumption of the gate driver (in watts)?
+
+Ans:0.205
+6.Question 6
+What is the converter efficiency (enter a numeric value between 0 and 1)?
+
+Ans:0.946
+7.Question 7
+Now change the control voltage input to the pulse-width modulator, so that it produces a control signal having a duty cycle of 0.6. Run the simulation again. What is the new steady-state average output voltage?
+Ans:59.612
